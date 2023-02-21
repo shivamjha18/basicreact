@@ -5,9 +5,59 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.nav1 ul {
+
+  justify-content: center;
+}
+
+.first{
+  align-items: center;
+  text-align: center;
+  /* background-color: rgb(173, 24, 24); */
+  color: rgb(170, 207, 183);
+}
+.first h1:hover{
+  color: aqua;
+}
+.first p:hover{
+  color: rgb(107, 240, 5);
+}
+.nav11 ul{
+  text-align: center !important;
+}
+
+.nav11 ul li:hover{
+  color: rgb(207, 34, 155);
+  background-color: rgb(1, 0, 0);
+}
+
+.second{
+  text-align: center;
+  /* background-color: rgb(95, 127, 105); */
+  color: rgb(5, 22, 22);
+}
+
+.pic1{
+  border-radius: 120px;
+}
+.third{
+  text-align: center;
+}
+.fourth{
+  text-align: center;
+}
+.fifth{
+  text-align: center;
+}
+.sixth{
+  text-align: center;
 }
